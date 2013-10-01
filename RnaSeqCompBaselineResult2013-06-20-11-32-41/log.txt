@@ -1,0 +1,480 @@
+Start RNA-SEQ baseline comparision checking,  Current time:  2013-06-20 11:32:42
+********************
+2013-06-20 18:32:42 Start Summary Checking
+there are 78 subfolder in the baseline folderand 78 subfolder in the test run folder
+there are 584 files in the baseline folderand 584 files in the test run folder
+cheking filesize of  per_replicate_metrics_HBr11.stdout bsize= 1184.0 nsize= 1185.0
+cheking filesize of  starling_HBr1_chr15.stdout bsize= 976.0 nsize= 976.0
+cheking filesize of  starling_HBr11_chr12.stdout bsize= 979.0 nsize= 978.0
+cheking filesize of  DemultiplexSummaryF1L1.txt bsize= 2593.0 nsize= 2593.0
+cheking filesize of  abundant_alignments.bam bsize= 35966.0 nsize= 35966.0
+cheking filesize of  HBr1_S3_L001_R1_001.fastq.gz.info bsize= 31.0 nsize= 31.0
+cheking filesize of  tophat_HBr11.stdout bsize= 946.0 nsize= 944.0
+cheking filesize of  cufflinks_reference_estimation_HBr11.stdout bsize= 549.0 nsize= 546.0
+cheking filesize of  uhr2.genome.vcf.gz bsize= 753555.0 nsize= 753555.0
+cheking filesize of  starling_HBr11_chr6.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  coverage_uhr2.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  TranscriptCoveragePlots.html bsize= 455.0 nsize= 455.0
+cheking filesize of  starling_HBr1_chr18.stdout bsize= 976.0 nsize= 975.0
+cheking filesize of  filtered.merged.isoforms.fpkm_tracking bsize= 2521765.0 nsize= 2521765.0
+cheking filesize of  alignments.bam.bai bsize= 1.0 nsize= 1.0
+cheking filesize of  bowtie.right_kept_reads.m2g_um.log bsize= 234.0 nsize= 234.0
+cheking filesize of  correlation_plot.png bsize= 32193.0 nsize= 32195.0
+cheking filesize of  AlignmentDistributionPlots.html bsize= 467.0 nsize= 467.0
+cheking filesize of  starling_HBr1_chr12.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr1_chr3.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  fusion_uhr2.stdout bsize= 428.0 nsize= 427.0
+cheking filesize of  tophat.log bsize= 2474.0 nsize= 2474.0
+cheking filesize of  starling_uhr2_chr3.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  README.html bsize= 6676.0 nsize= 6676.0
+cheking filesize of  read_1_files.txt bsize= 124.0 nsize= 124.0
+cheking filesize of  starling_HBr11_chr13.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chr4.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  insertions.bed bsize= 54.0 nsize= 54.0
+cheking filesize of  tss_groups.read_group_tracking bsize= 2662332.0 nsize= 2662350.0
+cheking filesize of  BuildFastq0.stdout bsize= 964.0 nsize= 964.0
+cheking filesize of  starling_HBr11_chr1.stdout bsize= 957.0 nsize= 957.0
+cheking filesize of  BuildFastq0.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  InsertSizeHistograms.html bsize= 458.0 nsize= 458.0
+cheking filesize of  starling_HBr11_chr6.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chr16.stdout bsize= 978.0 nsize= 977.0
+cheking filesize of  indexing_variants_HBr11.stdout bsize= 338.0 nsize= 338.0
+cheking filesize of  000_R1_QScoreData.csv bsize= 398.0 nsize= 398.0
+cheking filesize of  starling_uhr2_chr18.stdout bsize= 975.0 nsize= 975.0
+cheking filesize of  starling_uhr2_chr22.stdout bsize= 976.0 nsize= 975.0
+cheking filesize of  HBr1_HBr11_fusions.html bsize= 1386.0 nsize= 1386.0
+cheking filesize of  starling_uhr2_chr12.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  ACTCAGACCCTGAGGCTCAAAGTCAGATGCTACTGGCCGCTGAAGGGCTT bsize= 6347.0 nsize= 6347.0
+cheking filesize of  per_replicate_metrics_uhr2.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  starling_HBr1_chrY.cluster bsize= 345.0 nsize= 370.0
+cheking filesize of  AbundantSequences.4.ebwt bsize= 16869.0 nsize= 16869.0
+cheking filesize of  fusion_HBr11.stderr bsize= 710.0 nsize= 710.0
+cheking filesize of  starling_HBr1_chr5.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  coverage_HBr11.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  AbundantSequences.fa_2.cluster bsize= 345.0 nsize= 322.0
+cheking filesize of  starling_HBr1_chr20.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  ACTCAGACCCTGAGGCTCAAAGTCAGATGCTACTGGCCGCTGAAGGGCTTTTGAACTCTGCTTAAATCCAGTGGCTGAGTGGACGATGACATTCAGAAAC bsize= 18759.0 nsize= 18759.0
+cheking filesize of  starling_uhr2_chr21.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  Checkpoint.txt bsize= 3.0 nsize= 3.0
+cheking filesize of  read1_QScoreData.csv bsize= 395.0 nsize= 395.0
+cheking filesize of  starling_HBr11_chr20.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chr8.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  sample_list.txt bsize= 5.0 nsize= 5.0
+cheking filesize of  uhr2_vs_HBr1_genes_browser.html bsize= 6482.0 nsize= 6482.0
+cheking filesize of  starling_HBr1_chr19.cluster bsize= 345.0 nsize= 374.0
+cheking filesize of  HBr1_HBr11_AlignmentDistribution.png bsize= 155399.0 nsize= 155399.0
+cheking filesize of  starling_HBr1_chr16.stdout bsize= 976.0 nsize= 975.0
+cheking filesize of  uhr2_uhr2_fusions.html bsize= 97890.0 nsize= 97890.0
+cheking filesize of  starling_HBr1_chr1.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  tophat_uhr2.stderr bsize= 2474.0 nsize= 2474.0
+cheking filesize of  coverage_HBr1.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  read2_QScoreData.csv bsize= 393.0 nsize= 393.0
+cheking filesize of  aln-ln_uhr2.stdout bsize= 712.0 nsize= 712.0
+cheking filesize of  starling_HBr1_chr4.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  isoform_exp.diff bsize= 3569495.0 nsize= 3569494.0
+cheking filesize of  report_generateCorrelations.stdout bsize= 624.0 nsize= 622.0
+cheking filesize of  HBr11.genome.vcf.gz bsize= 625358.0 nsize= 625358.0
+cheking filesize of  HBr11.alignments.bam bsize= 1.0 nsize= 1.0
+cheking filesize of  uhr2.alignments.bam.bai bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_HBr11_chr18.stdout bsize= 978.0 nsize= 977.0
+cheking filesize of  report_mergeTables_isoforms.stdout bsize= 920.0 nsize= 920.0
+cheking filesize of  starling_HBr1_chrY.stdout bsize= 973.0 nsize= 973.0
+cheking filesize of  HBr1_HBr11_InsertSize_Histogram.png bsize= 223911.0 nsize= 223911.0
+cheking filesize of  fusion_HBr1.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  report_createDeliverable.cluster bsize= 343.0 nsize= 348.0
+cheking filesize of  starling_HBr1_chr19.stdout bsize= 976.0 nsize= 975.0
+cheking filesize of  starling_uhr2_chr8.stdout bsize= 974.0 nsize= 975.0
+cheking filesize of  uhr2_uhr2_Aligned_QualityHistogram.png bsize= 251374.0 nsize= 251374.0
+cheking filesize of  starling_HBr1_chr13.stdout bsize= 976.0 nsize= 976.0
+cheking filesize of  starling_HBr1_chr11.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  read2_PicardCoverage.csv bsize= 1188.0 nsize= 1188.0
+cheking filesize of  tophat_HBr1.stderr bsize= 2474.0 nsize= 2474.0
+cheking filesize of  AdapterTrimming.txt bsize= 2074.0 nsize= 2074.0
+cheking filesize of  HBr1_S2_L001_R1_001.fastq.gz.info bsize= 31.0 nsize= 31.0
+cheking filesize of  prep_reads.log bsize= 150.0 nsize= 150.0
+cheking filesize of  bowtie.right_kept_reads.m2g_um_seg1.log bsize= 233.0 nsize= 233.0
+cheking filesize of  starling_uhr2_chr17.stdout bsize= 975.0 nsize= 975.0
+cheking filesize of  uhr2_uhr2_PF_QualityHistogram.png bsize= 245696.0 nsize= 245696.0
+cheking filesize of  result.html bsize= 1386.0 nsize= 1386.0
+cheking filesize of  starling_HBr1_chr12.stdout bsize= 976.0 nsize= 976.0
+cheking filesize of  HBr1.alignments.bam bsize= 1.0 nsize= 1.0
+cheking filesize of  per_replicate_metrics_HBr11.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  starling_HBr1_chr10.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  fusion_HBr1.stdout bsize= 427.0 nsize= 427.0
+cheking filesize of  fusion_uhr2.cluster bsize= 344.0 nsize= 347.0
+cheking filesize of  unmapped.bam bsize= 333329.0 nsize= 333329.0
+cheking filesize of  starling_uhr2_chr16.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  filter_HBr11.stderr bsize= 422.0 nsize= 422.0
+cheking filesize of  starling_HBr11_chr19.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chr4.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  AbundantSequences.fa_2.stdout bsize= 12445.0 nsize= 12446.0
+cheking filesize of  starling_HBr11_chrY.stdout bsize= 975.0 nsize= 975.0
+cheking filesize of  deletions.bed bsize= 52.0 nsize= 52.0
+cheking filesize of  starling_uhr2_chr14.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  cufflinks_reference_estimation_uhr2.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  starling_uhr2_chr17.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr1_chrX.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  BuildFastq1.stdout bsize= 964.0 nsize= 964.0
+cheking filesize of  per_replicate_metrics_HBr1.stderr bsize= 5983.0 nsize= 5987.0
+cheking filesize of  starling_uhr2_chr20.stdout bsize= 976.0 nsize= 975.0
+cheking filesize of  starling_HBr1_chr7.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  tophat_HBr1.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  starling_HBr1_chr14.stdout bsize= 976.0 nsize= 976.0
+cheking filesize of  starling_uhr2_chr8.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  cds.count_tracking bsize= 974792.0 nsize= 974807.0
+cheking filesize of  genes.count_tracking bsize= 728054.0 nsize= 728072.0
+cheking filesize of  starling_HBr1_chr2.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chrY.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  SampleSheetUsed.csv bsize= 1305.0 nsize= 1305.0
+cheking filesize of  starling_HBr11_chr22.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  HBr11.coverage.bedGraph.gz bsize= 1.0 nsize= 1.0
+cheking filesize of  transcripts.gtf bsize= 94748929.0 nsize= 94748929.0
+cheking filesize of  merged.isoforms.fpkm_tracking bsize= 2457103.0 nsize= 2457108.0
+cheking filesize of  HBr1_HBr1_Aligned_QualityHistogram.png bsize= 231536.0 nsize= 231536.0
+cheking filesize of  uhr2.alignments.bam bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_HBr1_chr8.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  gene_exp.diff bsize= 1849589.0 nsize= 1849543.0
+cheking filesize of  uhr2_vs_HBr1_transcripts.json bsize= 4352549.0 nsize= 4352563.0
+cheking filesize of  bowtie.left_kept_reads.m2g_um.log bsize= 235.0 nsize= 235.0
+cheking filesize of  read2_Metrics.csv bsize= 78.0 nsize= 78.0
+cheking filesize of  aln-ln_HBr1.cluster bsize= 298.0 nsize= 301.0
+cheking filesize of  starling_uhr2_chr6.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  isoforms.count_tracking bsize= 1512047.0 nsize= 1512077.0
+cheking filesize of  starling_HBr11_chr17.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chrX.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  filter_HBr11.stdout bsize= 1674.0 nsize= 1673.0
+cheking filesize of  per_replicate_metrics_uhr2.stderr bsize= 5984.0 nsize= 5988.0
+cheking filesize of  starling_HBr11_chr9.stdout bsize= 977.0 nsize= 977.0
+cheking filesize of  cufflinks_reference_estimation_HBr11.stderr bsize= 949.0 nsize= 948.0
+cheking filesize of  starling_HBr11_chr14.stdout bsize= 979.0 nsize= 978.0
+cheking filesize of  uhr2.uhr2.genome.vcf.gz bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_HBr1_chr21.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  HBr1_HBr1_PF_QualityHistogram.png bsize= 224664.0 nsize= 224664.0
+cheking filesize of  indexing_variants_uhr2.cluster bsize= 298.0 nsize= 301.0
+cheking filesize of  correlations.csv bsize= 77.0 nsize= 77.0
+cheking filesize of  starling_uhr2_chr7.stdout bsize= 974.0 nsize= 975.0
+cheking filesize of  starling_uhr2_chr2.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  starling_HBr11_chr5.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  HBr1.alignments.bam.bai bsize= 1.0 nsize= 1.0
+cheking filesize of  m2g_left_kept_reads.err bsize= 47.0 nsize= 47.0
+cheking filesize of  starling_uhr2_chr14.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  starling_HBr11_chr22.stdout bsize= 977.0 nsize= 978.0
+cheking filesize of  HBr1_HBr1_InsertSize_Histogram.png bsize= 225638.0 nsize= 225638.0
+cheking filesize of  indexing_variants_uhr2.stdout bsize= 336.0 nsize= 336.0
+cheking filesize of  starling_uhr2_chr5.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  gtf_juncs.log bsize= 162.0 nsize= 162.0
+cheking filesize of  HBr1_HBr11_Aligned_QualityHistogram.png bsize= 266157.0 nsize= 266157.0
+cheking filesize of  filter_HBr11.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  HBr1_HBr11_PF_QualityHistogram.png bsize= 262480.0 nsize= 262480.0
+cheking filesize of  starling_uhr2_chr22.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  uhr2_uhr2_TranscriptCoverage.png bsize= 469558.0 nsize= 469558.0
+cheking filesize of  tss_groups.count_tracking bsize= 972782.0 nsize= 972794.0
+cheking filesize of  starling_uhr2_chr11.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  tss_groups.fpkm_tracking bsize= 2495844.0 nsize= 2495812.0
+cheking filesize of  ReadQualityHistograms.html bsize= 456.0 nsize= 456.0
+cheking filesize of  read_groups.info bsize= 431.0 nsize= 431.0
+cheking filesize of  AbundantSequences.fa bsize= 69063.0 nsize= 69063.0
+cheking filesize of  starling_HBr11_chr7.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  aln-ln_HBr11.cluster bsize= 298.0 nsize= 301.0
+cheking filesize of  HBr11.coverage.bedGraph.gz.tbi bsize= 1.0 nsize= 1.0
+cheking filesize of  report_filter_isoforms.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chr15.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  read_2_files.txt bsize= 124.0 nsize= 124.0
+cheking filesize of  HBr11.HBr11.genome.vcf.gz bsize= 1.0 nsize= 1.0
+cheking filesize of  isoforms.read_group_tracking bsize= 4197645.0 nsize= 4197688.0
+cheking filesize of  HBr1.genome.vcf.gz.tbi bsize= 47489.0 nsize= 47489.0
+cheking filesize of  Metrics.csv bsize= 140.0 nsize= 140.0
+cheking filesize of  HBr1_HBr11_TranscriptCoverage.png bsize= 461165.0 nsize= 461165.0
+cheking filesize of  starling_HBr11_chr11.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chr19.stdout bsize= 977.0 nsize= 977.0
+cheking filesize of  report_mergeTables_isoforms.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chr2.stdout bsize= 976.0 nsize= 976.0
+cheking filesize of  fusion_seq.fa bsize= 88151.0 nsize= 88151.0
+cheking filesize of  HBr11.alignments.bam.bai bsize= 1.0 nsize= 1.0
+cheking filesize of  uhr2.coverage.bedGraph.gz bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_uhr2_chr9.stdout bsize= 974.0 nsize= 975.0
+cheking filesize of  starling_HBr1_chr2.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  starling_uhr2_chr5.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  fusion_seq.map bsize= 161214.0 nsize= 161214.0
+cheking filesize of  Transcripts.json bsize= 4352549.0 nsize= 4352563.0
+cheking filesize of  starling_HBr1_chr11.stdout bsize= 976.0 nsize= 976.0
+cheking filesize of  HBr1.genome.vcf.gz bsize= 650216.0 nsize= 650213.0
+cheking filesize of  HBr1_HBr1_fusions.html bsize= 1386.0 nsize= 1386.0
+cheking filesize of  merge_variants_uhr2.stdout bsize= 2579.0 nsize= 2580.0
+cheking filesize of  TTGAACTCTGCTTAAATCCAGTGGCTGAGTGGACGATGACATTCAGAAAC bsize= 12493.0 nsize= 12493.0
+cheking filesize of  cds.read_group_tracking bsize= 2667138.0 nsize= 2667147.0
+cheking filesize of  AbundantSequences.fa_1.stdout bsize= 12445.0 nsize= 12446.0
+cheking filesize of  HBr11.HBr11.genome.vcf.gz.tbi bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_uhr2_chr13.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chrM.cluster bsize= 344.0 nsize= 347.0
+cheking filesize of  starling_HBr11_chr17.stdout bsize= 978.0 nsize= 977.0
+cheking filesize of  000_R1_Metrics.csv bsize= 108.0 nsize= 108.0
+cheking filesize of  differential_uhr2_vs_HBr1.stdout bsize= 710.0 nsize= 710.0
+cheking filesize of  starling_HBr1_chr1.stdout bsize= 955.0 nsize= 956.0
+cheking filesize of  HBr11.abundant_alignments.bam bsize= 1.0 nsize= 1.0
+cheking filesize of  index_HBr11.cluster bsize= 319.0 nsize= 348.0
+cheking filesize of  report_generateCorrelations.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  tophat_uhr2.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  index.html bsize= 18729.0 nsize= 18729.0
+cheking filesize of  uhr2_uhr2_AlignmentDistribution.png bsize= 185846.0 nsize= 185846.0
+cheking filesize of  starling_HBr1_chr4.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  aln-ln_HBr11.stdout bsize= 718.0 nsize= 718.0
+cheking filesize of  starling_HBr11_chr4.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  starling_HBr11_chrX.stdout bsize= 977.0 nsize= 976.0
+cheking filesize of  starling_HBr1_chr17.stdout bsize= 976.0 nsize= 975.0
+cheking filesize of  starling_uhr2_chr10.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  uhr2.abundant_alignments.bam bsize= 1.0 nsize= 1.0
+cheking filesize of  m2g_left_kept_reads.out bsize= 182.0 nsize= 182.0
+cheking filesize of  AbundantSequences.3.ebwt bsize= 161.0 nsize= 161.0
+cheking filesize of  run.log bsize= 293.0 nsize= 293.0
+cheking filesize of  long_spanning_reads.segs.log bsize= 404.0 nsize= 404.0
+cheking filesize of  starling_HBr1_chr13.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  juncs_db.log bsize= 607.0 nsize= 607.0
+cheking filesize of  starling_HBr11_chr8.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  combined_InsertLengthData.csv bsize= 3952.0 nsize= 3952.0
+cheking filesize of  cufflinks_reference_estimation_uhr2.stderr bsize= 947.0 nsize= 947.0
+cheking filesize of  bowtie.right_kept_reads.log bsize= 238.0 nsize= 238.0
+cheking filesize of  main_chr9-chr22_133729450_23632599_rr bsize= 197863.0 nsize= 197863.0
+cheking filesize of  000_R2_Metrics.csv bsize= 107.0 nsize= 107.0
+cheking filesize of  starling_uhr2_chr18.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  md5sum.txt bsize= 1266.0 nsize= 1266.0
+cheking filesize of  cufflinks_reference_estimation_HBr1.stderr bsize= 947.0 nsize= 947.0
+cheking filesize of  cds_exp.diff bsize= 2463676.0 nsize= 2463655.0
+cheking filesize of  starling_uhr2_chr9.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  coverage_uhr2.stdout bsize= 1712.0 nsize= 1711.0
+cheking filesize of  starling_HBr1_chr7.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  cds.fpkm_tracking bsize= 2583214.0 nsize= 2583184.0
+cheking filesize of  starling_uhr2_chr1.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  uhr2.uhr2.genome.vcf.gz.tbi bsize= 1.0 nsize= 1.0
+cheking filesize of  report_mergeTables_genes.stdout bsize= 889.0 nsize= 889.0
+cheking filesize of  reports.log bsize= 1019.0 nsize= 1019.0
+cheking filesize of  coverage_HBr1.stdout bsize= 1712.0 nsize= 1711.0
+cheking filesize of  tss_group_exp.diff bsize= 2399471.0 nsize= 2399650.0
+cheking filesize of  uhr2_S1_L001_R1_001.fastq.gz.info bsize= 31.0 nsize= 31.0
+cheking filesize of  starling_uhr2_chr12.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  indexing_variants_HBr1.stdout bsize= 336.0 nsize= 336.0
+cheking filesize of  starling_HBr1_chr22.stdout bsize= 976.0 nsize= 975.0
+cheking filesize of  starling_uhr2_chr13.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  merge_variants_HBr1.cluster bsize= 298.0 nsize= 301.0
+cheking filesize of  filter_uhr2.stderr bsize= 422.0 nsize= 422.0
+cheking filesize of  AbundantSequences.rev.1.ebwt bsize= 4214228.0 nsize= 4214228.0
+cheking filesize of  bowtie.left_kept_reads.log bsize= 238.0 nsize= 238.0
+cheking filesize of  report_filter_genes.cluster bsize= 319.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chr21.stdout bsize= 976.0 nsize= 975.0
+cheking filesize of  starling_HBr11_chr15.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr1_chr10.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chrM.cluster bsize= 298.0 nsize= 322.0
+cheking filesize of  starling_HBr1_chr22.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr1_chr18.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  var_model.info bsize= 1757915.0 nsize= 1757955.0
+cheking filesize of  starling_HBr1_chr8.stdout bsize= 974.0 nsize= 974.0
+cheking filesize of  fusion_uhr2.stderr bsize= 823.0 nsize= 823.0
+cheking filesize of  uhr2_vs_HBr1_transcripts_browser.html bsize= 7167.0 nsize= 7167.0
+cheking filesize of  tophat_HBr11.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  cufflinks_reference_estimation_HBr11.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  starling_uhr2_chrY.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  index_HBr11.stdout bsize= 337.0 nsize= 338.0
+cheking filesize of  result.txt bsize= 59.0 nsize= 59.0
+cheking filesize of  starling_uhr2_chr6.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  m2g_right_kept_reads.err bsize= 47.0 nsize= 47.0
+cheking filesize of  per_replicate_metrics_HBr1.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  per_replicate_metrics_HBr1.stdout bsize= 1180.0 nsize= 1181.0
+cheking filesize of  bowtie.left_kept_reads.m2g_um_seg1.log bsize= 233.0 nsize= 233.0
+cheking filesize of  starling_HBr1_chr20.stdout bsize= 976.0 nsize= 975.0
+cheking filesize of  report_staticReport.stderr bsize= 578.0 nsize= 578.0
+cheking filesize of  starling_uhr2_chr7.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  merge_variants_HBr11.cluster bsize= 298.0 nsize= 301.0
+cheking filesize of  index_uhr2.stdout bsize= 336.0 nsize= 337.0
+cheking filesize of  starling_HBr11_chr3.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chr20.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr1_chr9.stdout bsize= 974.0 nsize= 974.0
+cheking filesize of  fusion_HBr1.stderr bsize= 710.0 nsize= 710.0
+cheking filesize of  starling_HBr11_chr13.stdout bsize= 979.0 nsize= 978.0
+cheking filesize of  starling_uhr2_chr19.stdout bsize= 975.0 nsize= 975.0
+cheking filesize of  genes.fpkm_tracking bsize= 1977113.0 nsize= 1977094.0
+cheking filesize of  starling_uhr2_chr10.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chrX.stdout bsize= 974.0 nsize= 975.0
+cheking filesize of  starling_HBr1_chr17.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr1_chrM.cluster bsize= 319.0 nsize= 301.0
+cheking filesize of  starling_uhr2_chr16.stdout bsize= 975.0 nsize= 976.0
+cheking filesize of  uhr2.genome.vcf.gz.tbi bsize= 48492.0 nsize= 48492.0
+cheking filesize of  uhr2_uhr2_InsertSize_Histogram.png bsize= 230968.0 nsize= 230968.0
+cheking filesize of  cufflinks_reference_estimation_uhr2.stdout bsize= 547.0 nsize= 546.0
+cheking filesize of  segment_juncs.log bsize= 1046.0 nsize= 1046.0
+cheking filesize of  differential_uhr2_vs_HBr1.stderr bsize= 1679633.0 nsize= 1679633.0
+cheking filesize of  read1_PicardCoverage.csv bsize= 1195.0 nsize= 1195.0
+cheking filesize of  starling_HBr11_chr5.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  isoforms.fpkm_tracking bsize= 3835365.0 nsize= 3835300.0
+cheking filesize of  merge_variants_HBr11.stdout bsize= 2606.0 nsize= 2607.0
+cheking filesize of  fusion_HBr11.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  HBr11.genome.vcf.gz.tbi bsize= 44293.0 nsize= 44293.0
+cheking filesize of  combined_Metrics.csv bsize= 191.0 nsize= 191.0
+cheking filesize of  filter_uhr2.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chr11.stdout bsize= 979.0 nsize= 978.0
+cheking filesize of  aln-ln_HBr1.stdout bsize= 712.0 nsize= 712.0
+cheking filesize of  alignments.bam bsize= 1.0 nsize= 1.0
+cheking filesize of  log.txt bsize= 112792.0 nsize= 112444.0
+cheking filesize of  starling_HBr11_chr21.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chr1.stdout bsize= 955.0 nsize= 956.0
+cheking filesize of  starling_HBr11_chr7.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chr10.stdout bsize= 978.0 nsize= 978.0
+cheking filesize of  fusion_HBr11.stdout bsize= 428.0 nsize= 428.0
+cheking filesize of  AlignedQualityHistograms.html bsize= 480.0 nsize= 480.0
+cheking filesize of  promoters.diff bsize= 1807687.0 nsize= 1807645.0
+cheking filesize of  starling_HBr11_chr1.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  000_R2_QScoreData.csv bsize= 400.0 nsize= 400.0
+cheking filesize of  fusion_seq.bwtout bsize= 816120.0 nsize= 816120.0
+cheking filesize of  potential_fusion.txt bsize= 555.0 nsize= 555.0
+cheking filesize of  starling_HBr1_chr6.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  prep_reads.info bsize= 176.0 nsize= 176.0
+cheking filesize of  starling_HBr1_chr16.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  report_generateCorrelations.stderr bsize= 428.0 nsize= 428.0
+cheking filesize of  genes.read_group_tracking bsize= 1974762.0 nsize= 1974759.0
+cheking filesize of  starling_HBr1_chrX.stdout bsize= 974.0 nsize= 974.0
+cheking filesize of  cufflinks_reference_estimation_HBr1.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  bowtie_build.log bsize= 11412.0 nsize= 11412.0
+cheking filesize of  HBr1.HBr1.genome.vcf.gz.tbi bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_HBr11_chr12.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chr3.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  merged.genes.fpkm_tracking bsize= 1194074.0 nsize= 1194079.0
+cheking filesize of  HBr1.coverage.bedGraph.gz.tbi bsize= 1.0 nsize= 1.0
+cheking filesize of  uhr2_vs_HBr1_genes.json bsize= 2077596.0 nsize= 2077588.0
+cheking filesize of  starling_HBr1_chr9.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  indexing_variants_HBr11.cluster bsize= 298.0 nsize= 301.0
+cheking filesize of  starling_HBr11_chr16.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  sam_header bsize= 779.0 nsize= 779.0
+cheking filesize of  report_staticReport.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  coverage.bedGraph.gz bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_uhr2_chrM.stdout bsize= 970.0 nsize= 971.0
+cheking filesize of  starling_HBr11_chr15.stdout bsize= 979.0 nsize= 978.0
+cheking filesize of  starling_HBr1_chr6.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  starling_uhr2_chrY.stdout bsize= 973.0 nsize= 974.0
+cheking filesize of  filter_HBr1.cluster bsize= 344.0 nsize= 348.0
+cheking filesize of  g2f.out bsize= 106.0 nsize= 106.0
+cheking filesize of  starling_HBr11_chr9.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr1_chr3.stdout bsize= 975.0 nsize= 974.0
+cheking filesize of  report_createDeliverable.stderr bsize= 4182.0 nsize= 4182.0
+cheking filesize of  AbundantSequences.2.ebwt bsize= 8440.0 nsize= 8440.0
+cheking filesize of  bias_params.info bsize= 53.0 nsize= 53.0
+cheking filesize of  report_mergeTables_genes.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  splicing.diff bsize= 2363978.0 nsize= 2363993.0
+cheking filesize of  starling_HBr1_chr15.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  aln-ln_uhr2.cluster bsize= 298.0 nsize= 301.0
+cheking filesize of  m2g_right_kept_reads.out bsize= 182.0 nsize= 182.0
+cheking filesize of  HBr1_HBr1_TranscriptCoverage.png bsize= 456479.0 nsize= 456479.0
+cheking filesize of  read1_Metrics.csv bsize= 78.0 nsize= 78.0
+cheking filesize of  run.info bsize= 642.0 nsize= 642.0
+cheking filesize of  AbundantSequences.fa_1.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  merge_variants_HBr1.stdout bsize= 2579.0 nsize= 2580.0
+cheking filesize of  starling_uhr2_chr19.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  AbundantSequences.1.ebwt bsize= 4214228.0 nsize= 4214228.0
+cheking filesize of  starling_HBr11_chrX.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  indexing_variants_HBr1.cluster bsize= 298.0 nsize= 301.0
+cheking filesize of  filter_HBr1.stderr bsize= 422.0 nsize= 422.0
+cheking filesize of  starling_HBr1_chr5.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr11_chr10.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  accepted_hits.bam.bai bsize= 1637824.0 nsize= 1637824.0
+cheking filesize of  junctions.bed bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_uhr2_chr11.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  starling_uhr2_chr2.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  filter_HBr1.stdout bsize= 1669.0 nsize= 1668.0
+cheking filesize of  bowtie.left_kept_reads.m2g_um_seg2.log bsize= 232.0 nsize= 232.0
+cheking filesize of  starling_HBr11_chr18.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_HBr1_chrM.stdout bsize= 970.0 nsize= 970.0
+cheking filesize of  starling_HBr11_chr3.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  Genes.json bsize= 2077596.0 nsize= 2077588.0
+cheking filesize of  cufflinks_reference_estimation_HBr1.stdout bsize= 546.0 nsize= 546.0
+cheking filesize of  index_HBr1.stdout bsize= 336.0 nsize= 337.0
+cheking filesize of  BuildFastq1.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  merge_variants_uhr2.cluster bsize= 298.0 nsize= 301.0
+cheking filesize of  coverage.bedGraph.gz.tbi bsize= 1.0 nsize= 1.0
+cheking filesize of  cds.diff bsize= 1437905.0 nsize= 1437864.0
+cheking filesize of  report_staticReport.stdout bsize= 490.0 nsize= 490.0
+cheking filesize of  differential_uhr2_vs_HBr1.cluster bsize= 343.0 nsize= 346.0
+cheking filesize of  AbundantSequences.rev.2.ebwt bsize= 8440.0 nsize= 8440.0
+cheking filesize of  HBr1.abundant_alignments.bam bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_HBr11_chr14.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  accepted_hits.bam bsize= 25003685.0 nsize= 25003685.0
+cheking filesize of  report_filter_genes.stdout bsize= 539.0 nsize= 538.0
+cheking filesize of  starling_HBr1_chr14.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  starling_uhr2_chr15.stdout bsize= 976.0 nsize= 977.0
+cheking filesize of  report_filter_isoforms.stdout bsize= 545.0 nsize= 544.0
+cheking filesize of  starling_HBr11_chrM.stdout bsize= 973.0 nsize= 972.0
+cheking filesize of  starling_HBr11_chr20.stdout bsize= 977.0 nsize= 977.0
+cheking filesize of  filtered.merged.genes.fpkm_tracking bsize= 1237393.0 nsize= 1237398.0
+cheking filesize of  HBr1.coverage.bedGraph.gz bsize= 1.0 nsize= 1.0
+cheking filesize of  starling_HBr11_chr2.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  tophat_HBr1.stdout bsize= 942.0 nsize= 942.0
+cheking filesize of  HBr1.HBr1.genome.vcf.gz bsize= 1.0 nsize= 1.0
+cheking filesize of  index_HBr1.cluster bsize= 371.0 nsize= 348.0
+cheking filesize of  AdapterCounts.txt bsize= 90.0 nsize= 90.0
+cheking filesize of  starling_uhr2_chr4.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  report_createDeliverable.stdout bsize= 429.0 nsize= 429.0
+cheking filesize of  bowtie.right_kept_reads.m2g_um_seg2.log bsize= 233.0 nsize= 233.0
+cheking filesize of  combined_PicardCoverage.csv bsize= 1193.0 nsize= 1193.0
+cheking filesize of  coverage_HBr11.stdout bsize= 1722.0 nsize= 1721.0
+cheking filesize of  per_replicate_metrics_HBr11.stderr bsize= 5989.0 nsize= 5993.0
+cheking filesize of  tophat_uhr2.stdout bsize= 943.0 nsize= 942.0
+cheking filesize of  HBr1_HBr1_AlignmentDistribution.png bsize= 155203.0 nsize= 155203.0
+cheking filesize of  uhr2.coverage.bedGraph.gz.tbi bsize= 1.0 nsize= 1.0
+cheking filesize of  index_uhr2.cluster bsize= 345.0 nsize= 348.0
+cheking filesize of  per_replicate_metrics_uhr2.stdout bsize= 1180.0 nsize= 1181.0
+cheking filesize of  fusions.out bsize= 501087.0 nsize= 501087.0
+cheking filesize of  starling_HBr11_chr21.stdout bsize= 977.0 nsize= 978.0
+cheking filesize of  filter_uhr2.stdout bsize= 1668.0 nsize= 1668.0
+cheking filesize of  ChromInfo.txt bsize= 376.0 nsize= 376.0
+cheking filesize of  tophat_HBr11.stderr bsize= 2474.0 nsize= 2474.0
+cheking filesize of  starling_HBr1_chr21.stdout bsize= 976.0 nsize= 975.0
+The number of error is 1 , errormsg is  the difference of size of index_HBr1.clusterin the baseline files and new files are beyond our 5% tolerance  , these testcases are tested: [76620, 76313]
+********************
+2013-06-20 18:33:29 Start ReadFiltering
+3 fastaq.gz.info files needs to be compared!
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/filtered/uhr2_S1_L001_R1_001.fastq.gz.info and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/filtered/uhr2_S1_L001_R1_001.fastq.gz.info
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/filtered/HBr1_S3_L001_R1_001.fastq.gz.info and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/filtered/HBr1_S3_L001_R1_001.fastq.gz.info
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/filtered/HBr1_S2_L001_R1_001.fastq.gz.info and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/filtered/HBr1_S2_L001_R1_001.fastq.gz.info
+The number of error is 0 , errormsg is   , these testcases are tested: [76747, 76747, 76747]
+********************
+2013-06-20 18:33:30 Start Alignment Checking
+9 sample_alignment metrics.csv files needs to be compared
+9 full_alignment metrics.csv files needs to be compared
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/full_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/uhr2/replicates/uhr2/metrics/full_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/full_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/uhr2/replicates/uhr2/metrics/full_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/full_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/uhr2/replicates/uhr2/metrics/full_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/full_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr11/metrics/full_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/full_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr11/metrics/full_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/full_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr11/metrics/full_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/full_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr1/metrics/full_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/full_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr1/metrics/full_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/full_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr1/metrics/full_alignment/combined_Metrics.csv
+The number of error is 0 , errormsg is   , these testcases are tested: [76728, 76731]
+********************
+2013-06-20 18:33:32 Start Fusion calling Checking
+3 result.txt file needs to be checked
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/tophat_fusion/result.txt and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/uhr2/replicates/uhr2/tophat_fusion/result.txt
+difference perct is: 0.0
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/tophat_fusion/result.txt and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr11/tophat_fusion/result.txt
+no valuable content for both baseline and new file
+difference perct is: 0
+comparing file: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/tophat_fusion/result.txt and /home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr1/tophat_fusion/result.txt
+no valuable content for both baseline and new file
+difference perct is: 0
+Novel warning: no fusion.out files in baseline folder!
+The number of error is 0 , errormsg is   , these testcases are tested: [76745, 76745, 76745]
+enter-1
+********************
+2013-06-20 18:33:32 Start Variant calling Checking
+3 genome.vcf.gz files needs to be compared!
+comparing the vcf files: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/variants/uhr2.genome.vcf.gz/home/jqian/RNA-SEQ/2013-06-14_131553/samples/uhr2/replicates/uhr2/variants/uhr2.genome.vcf.gz
+comparing the vcf files: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/variants/HBr11.genome.vcf.gz/home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr11/variants/HBr11.genome.vcf.gz
+comparing the vcf files: /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/variants/HBr1.genome.vcf.gz/home/jqian/RNA-SEQ/2013-06-14_131553/samples/HBr1/replicates/HBr1/variants/HBr1.genome.vcf.gz
+The number of error is 0 , errormsg is   , these testcases are tested: [76741]
+Finish RNA-SEQ baseline comparision checking,  Current time:  2013-06-20 11:35:21

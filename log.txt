@@ -1,0 +1,58 @@
+Start RNA-SEQ baseline comparision checking,  Current time:  2013-06-14 09:42:52
+********************
+2013-06-14 16:42:52 Start Summary Checking
+there are 78 subfolder in the baseline folderand 78 subfolder in the test run folder
+there are 599 files in the baseline folderand 698 files in the test run folder
+The number of error is 1 , errormsg is  some new file is found in the new folder but not in the baseline folder /Loggingstarling_HBr1_chrX.stderr /Loggingstarling_HBr1_chrX.stderr  , these testcases are tested: [76620, 76313]
+********************
+2013-06-14 16:42:53 Start ReadFiltering
+3 fastaq.gz.info files needs to be compared!
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/filtered/uhr2_S1_L001_R1_001.fastq.gz.info and /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/filtered/uhr2_S1_L001_R1_001.fastq.gz.info
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/filtered/HBr1_S3_L001_R1_001.fastq.gz.info and /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/filtered/HBr1_S3_L001_R1_001.fastq.gz.info
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/filtered/HBr1_S2_L001_R1_001.fastq.gz.info and /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/filtered/HBr1_S2_L001_R1_001.fastq.gz.info
+The number of error is 0 , errormsg is   , these testcases are tested: [76747, 76747, 76747]
+********************
+2013-06-14 16:42:53 Start Alignment Checking
+9 sample_alignment metrics.csv files needs to be compared
+9 full_alignment metrics.csv files needs to be compared
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/sampled_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/sampled_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/sampled_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/metrics/full_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/full_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/metrics/full_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/full_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/metrics/full_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/metrics/full_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/metrics/full_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/full_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/metrics/full_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/full_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/metrics/full_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/metrics/full_alignment/combined_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/metrics/full_alignment/read2_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/full_alignment/read2_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/metrics/full_alignment/read1_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/full_alignment/read1_Metrics.csv
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/metrics/full_alignment/combined_Metrics.csv and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/metrics/full_alignment/combined_Metrics.csv
+The number of error is 0 , errormsg is   , these testcases are tested: [76728, 76731]
+********************
+2013-06-14 16:42:53 Start Fusion calling Checking
+3 result.txt file needs to be checked
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/tophat_fusion/result.txt and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/tophat_fusion/result.txt
+difference perct is: 0.0
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/tophat_fusion/result.txt and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/tophat_fusion/result.txt
+no valuable content for both baseline and new file
+difference perct is: 0
+comparing file: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/tophat_fusion/result.txt and /home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/tophat_fusion/result.txt
+no valuable content for both baseline and new file
+difference perct is: 0
+Novel warning: no fusion.out files in baseline folder!
+The number of error is 0 , errormsg is   , these testcases are tested: [76745, 76745, 76745]
+enter-1
+********************
+2013-06-14 16:42:53 Start Variant calling Checking
+3 genome.vcf.gz files needs to be compared!
+comparing the vcf files: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/uhr2/replicates/uhr2/variants/uhr2.genome.vcf.gz/home/jqian/RNA-SEQ/2013-06-06_083750/samples/uhr2/replicates/uhr2/variants/uhr2.genome.vcf.gz
+comparing the vcf files: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr11/variants/HBr11.genome.vcf.gz/home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr11/variants/HBr11.genome.vcf.gz
+comparing the vcf files: /home/jqian/RNA-SEQ/2013-05-17_100111_nonovel/samples/HBr1/replicates/HBr1/variants/HBr1.genome.vcf.gz/home/jqian/RNA-SEQ/2013-06-06_083750/samples/HBr1/replicates/HBr1/variants/HBr1.genome.vcf.gz
+The number of error is 0 , errormsg is   , these testcases are tested: [76741]
+Finish RNA-SEQ baseline comparision checking,  Current time:  2013-06-14 09:44:43

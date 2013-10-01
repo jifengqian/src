@@ -1,0 +1,10 @@
+Summary error: 1 
+
+ReadFiltering error: 0 
+
+Alignment error: 0 
+
+Fusioncalling error: 0 
+
+Variantcalling error: 0 
+
